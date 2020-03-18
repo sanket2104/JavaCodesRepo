@@ -1,0 +1,2 @@
+# JavaCodesRepo
+Java Coding Practice
